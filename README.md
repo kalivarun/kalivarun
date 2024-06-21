@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varun Chandra Kookatati</h1>
 <h3 align="center">A Ethical Hacker who is curious to learn new data everyday.</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-505.gif">
+<img align="center" alt="coding" width="400" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-505.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalivarun&label=Profile%20views&color=0e75b6&style=flat" alt="kalivarun" /> </p>
 
