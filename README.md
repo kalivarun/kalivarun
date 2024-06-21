@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Varun Chandra Kookatati</h1>
 <h3 align="center">A Ethical Hacker who is curious to learn new data everyday.</h3>
 
-<body style="margin: 0; display: flex; justify-content: center; align-items: center; height: 396px; background-color: #f3f3f3;">
-  <div style="position: relative; width: 1584px; height: 396px; display: flex; justify-content: center; align-items: center; background-color: #000;">
-    <img src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-505.gif" alt="coding" style="max-height: 100%; max-width: 100%;">
-  </div>
-</body>
+
+<p align="center">
+  <img src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-505.gif" alt="coding" width="400">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalivarun&label=Profile%20views&color=0e75b6&style=flat" alt="kalivarun" /> </p>
 
