@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varun Chandra Kookatati</h1>
-<h3 align="center">A Ethical Hacker who is curious to learn new data everyday.</h3>
+<h3 align="center">A Ethical Hacker who is curious to learn new concepts everyday.</h3>
 
 
 <p align="center">
